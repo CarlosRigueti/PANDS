@@ -3,6 +3,7 @@
 # In the question, number is ambiguous but the
 # Output implies that we should be dealing with floats
 # So I am casting the input to a float
+
 number = float(input("Enter a number:"))
 
 absoluteValue = abs(number)
