@@ -2,5 +2,6 @@
 # Autor: Carlos Rigueti
 
 a = input ("Please enter an 10 digit account number:")
-print (a[6:10])
+
+print (f"XXXXXX{a[6:10]}")
 
