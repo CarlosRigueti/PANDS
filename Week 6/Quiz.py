@@ -1,4 +1,6 @@
 # Function yo takes one parameter
+# Autor: Carlos Rigueti
+
 def yo(a):
     return a * 2
 # here we are calling the function yo

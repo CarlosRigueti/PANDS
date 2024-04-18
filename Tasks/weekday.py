@@ -17,7 +17,7 @@ for day in weekday:
 
 weekend = week[5:7]
 for day in weekend:
-    print(f"It is the weekend, yay! {day}")
+    print(f" {day}, It is the weekend, yay!")
 
 
 
